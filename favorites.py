@@ -9,7 +9,7 @@ first_question = "What is your favorite color?"
 # letters or numbers, so they're the perfect place to write our
 # answers. Go ahead and write your answer to the first question  
 # in the string below:
-first_question_answer = "YOUR_ANSWER_HERE"
+first_question_answer = "blue"
 
 # After you've committed and pushed, repeat the same process for 
 # the rest of the questions!
